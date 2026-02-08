@@ -20,7 +20,7 @@ This project presents an interactive Tableau dashboard analyzing Netflix movies 
 - `images/` – Dashboard screenshots
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](https://i.pcmag.com/imagery/reviews/05cItXL96l4LE9n02WfDR0h-5.fit_lim.size_1200x630.v1582751026.png)
 
 ## 🚀 How to Use
 1. Download the `.twbx` file
