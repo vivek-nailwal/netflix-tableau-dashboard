@@ -7,10 +7,11 @@
 
 ---
 
-## 📊 Project Overview (<a href="https://public.tableau.com/app/profile/vivek.nailwal/viz/NetflixContentAnalysis_17705692714560/Dashboard1?publish=yes"
+## 📊 Project Overview 
+<a href="https://public.tableau.com/app/profile/vivek.nailwal/viz/NetflixContentAnalysis_17705692714560/Dashboard1?publish=yes"
    target="_blank"
    rel="noopener noreferrer">
-  📊 <strong>Live Dashboard</strong>
+  <strong>(Live Dashboard)</strong>
 </a>)
 
 This project presents an **interactive Tableau dashboard** that analyzes Netflix movies and TV shows to uncover trends in content type, genres, release years, and country-wise production.
