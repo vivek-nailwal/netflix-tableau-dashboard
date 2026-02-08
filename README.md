@@ -7,7 +7,7 @@
 
 ---
 
-## 📊 Project Overview
+## 📊 Project Overview (📊 **[Live Dashboard](https://public.tableau.com/app/profile/vivek.nailwal/viz/NetflixContentAnalysis_17705692714560/Dashboard1?publish=yes)**)
 This project presents an **interactive Tableau dashboard** that analyzes Netflix movies and TV shows to uncover trends in content type, genres, release years, and country-wise production.
 
 The dashboard helps users quickly understand:
@@ -35,10 +35,7 @@ The dashboard helps users quickly understand:
 ---
 
 ## 🛠 Tools & Technologies
-- **Tableau Desktop / Tableau Public**
-- **CSV Dataset**
-- **Git & GitHub** for version control
+- **Tableau Public**
+- **CSV Dataset (Netflix_Clean)**l
 
 ---
-
-## 📁 Project Structure
